@@ -1,8 +1,3 @@
-Perfect — the screenshot makes it much clearer! 🚀
-Your project is an **AI-Powered OS Optimizer** with a GUI that monitors CPU, RAM, Disk usage, lists running processes, and even gives **AI-driven suggestions** (like disabling startup programs).
-
-Here’s a professional `README.md` draft for your repo:
-
 ```markdown
 # 🖥️ AI-Powered OS Optimizer
 
